@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hiblock>
+	<hiblock>
+		<id>1</id>
+		<name>SaleTest</name>
+		<table_name>sale_test</table_name>
+	</hiblock>
+	<langs>
+	</langs>
+	<fields>
+		<field>
+			<id>305</id>
+			<entity_id>HLBLOCK_1</entity_id>
+			<field_name>UF_KEY</field_name>
+			<user_type_id>string</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<rows>1</rows>
+				<regexp />
+				<min_length>0</min_length>
+				<max_length>0</max_length>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru />
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru />
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru />
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>string</base_type>
+		</field>
+		<field>
+			<id>306</id>
+			<entity_id>HLBLOCK_1</entity_id>
+			<field_name>UF_PERCENT</field_name>
+			<user_type_id>integer</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<min_value>0</min_value>
+				<max_value>0</max_value>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru />
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru />
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru />
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>int</base_type>
+		</field>
+		<field>
+			<id>307</id>
+			<entity_id>HLBLOCK_1</entity_id>
+			<field_name>UF_USER</field_name>
+			<user_type_id>integer</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<min_value>0</min_value>
+				<max_value>0</max_value>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru />
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru />
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru />
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>int</base_type>
+		</field>
+		<field>
+			<id>309</id>
+			<entity_id>HLBLOCK_1</entity_id>
+			<field_name>UF_TIMESTAMP</field_name>
+			<user_type_id>integer</user_type_id>
+			<xml_id />
+			<sort>100</sort>
+			<multiple>N</multiple>
+			<mandatory>N</mandatory>
+			<show_filter>N</show_filter>
+			<show_in_list>Y</show_in_list>
+			<edit_in_list>Y</edit_in_list>
+			<is_searchable>N</is_searchable>
+			<settings>
+				<size>20</size>
+				<min_value>0</min_value>
+				<max_value>0</max_value>
+				<default_value />
+			</settings>
+			<edit_form_label>
+				<en />
+				<ru />
+			</edit_form_label>
+			<list_column_label>
+				<en />
+				<ru />
+			</list_column_label>
+			<list_filter_label>
+				<en />
+				<ru />
+			</list_filter_label>
+			<error_message>
+				<en />
+				<ru />
+			</error_message>
+			<help_message>
+				<en />
+				<ru />
+			</help_message>
+			<base_type>int</base_type>
+		</field>
+	</fields>
+	<items>
+		<item>
+			<id>1</id>
+			<uf_key>yiutiuytkhkjht</uf_key>
+			<uf_percent>50</uf_percent>
+			<uf_user>1</uf_user>
+			<uf_timestamp />
+		</item>
+		<item>
+			<id>4</id>
+			<uf_key>VeISxx4Qc7jRZri</uf_key>
+			<uf_percent>18</uf_percent>
+			<uf_user>63685</uf_user>
+			<uf_timestamp>1661797268</uf_timestamp>
+		</item>
+		<item>
+			<id>5</id>
+			<uf_key>OlwU5xNXpF</uf_key>
+			<uf_percent>2</uf_percent>
+			<uf_user>63685</uf_user>
+			<uf_timestamp>1661797269</uf_timestamp>
+		</item>
+		<item>
+			<id>6</id>
+			<uf_key>9jcirbWJzY</uf_key>
+			<uf_percent>41</uf_percent>
+			<uf_user>63685</uf_user>
+			<uf_timestamp>1661797309</uf_timestamp>
+		</item>
+		<item>
+			<id>7</id>
+			<uf_key>0OuJqJgpFd3</uf_key>
+			<uf_percent>45</uf_percent>
+			<uf_user>63685</uf_user>
+			<uf_timestamp>1661797427</uf_timestamp>
+		</item>
+		<item>
+			<id>8</id>
+			<uf_key>nQ8vwGULH67jDR</uf_key>
+			<uf_percent>29</uf_percent>
+			<uf_user>63685</uf_user>
+			<uf_timestamp>1661797428</uf_timestamp>
+		</item>
+	</items>
+</hiblock>
